@@ -6,7 +6,7 @@ namespace Dice
     {
         static void Main(string[] args)
         {
-            int playDice;
+            		int playDice;
 			int jackDice;
 			
 			int playerPoints = 0;
