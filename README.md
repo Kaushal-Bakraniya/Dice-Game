@@ -8,7 +8,6 @@ A simple console-based dice game developed using C#.
 
 # Technologies Used
 - C#
-- .NET Core
 
 # Contributions
 - Contributions are welcome! Submit a pull request with your improvements.
